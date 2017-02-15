@@ -1,0 +1,109 @@
+
+  header {
+		background-color: #f8bfa2;
+		height: 250px;
+		text-align: center;
+    overflow: hidden;
+	}
+
+      p
+{
+    width: 1280px;
+    border: 10px solid #f8bfa2;
+    text-align: justify;
+}
+   a {
+    background-color: #fcd3be;
+    border: none;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+
+  video
+{
+  width: 600px;
+  align-content
+  border : 2em solid #000;
+  border-radius: 1em;
+  display: block;
+  width : 480px;
+  margin: 2em auto;
+}
+
+	body {
+		    background-image : url('images/pouet.jpg');
+		  	background-color: #f8bfa2;
+        background-attachment: fixed;
+		  	background-repeat: repeat
+		  }
+
+		  #colors {
+		    display: flex;
+		    flex-wrap: wrap;
+		    justify-content: center;
+		    text-align: center;
+		    text-transform: uppercase;
+		    font-size: 2em;
+
+		  }
+
+		  ol {
+		    list-style-type: none;
+		    display: flex;
+		    flex-wrap: wrap;
+		    justify-content: center;
+		  }
+
+		  ol li {
+		    border : 1px solid #000;
+		    width : 160px;
+		    margin : 6px;
+		  }
+
+		  li img {
+		    width : 100%;
+		  }
+
+		  #colors {
+		    display: flex;
+		    flex-wrap: wrap;
+		    justify-content : center;
+		    text-align : center;
+		   text-transform: uppercase;
+		   font-size: 2em;
+
+		  }
+
+		  #colors li {
+		    height : 160px;
+		    width : 160px;
+		    border-radius: 8px;
+		    color : #fff;
+		    display: flex;
+		    align-items: center;
+		  justify-content: center;
+		  }
+
+		  #color-1 {
+		   background-color: #612d6b;
+		  }
+
+		  #color-2 {
+		   background-color: #c66e98;
+		  }
+
+		  #color-3 {
+		   background-color: #efa09c;
+		  }
+
+		  #color-4 {
+		   background-color: #f8bfa2;
+		  }
+		  #color-5 {
+		   background-color: #fcd3be;
+		  }
+		  #color-6 {
+		   background-color: #ffe2d4;
+		  }
